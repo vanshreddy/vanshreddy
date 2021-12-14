@@ -1,22 +1,21 @@
-### Hi there! I'm Christopher (he / him). <img src="https://github.com/chrisngyn/chrisngyn/blob/master/Hi.gif" width="30px">
+### Hi there! I'm Vansh (he / him). <img src="https://github.com/chrisngyn/chrisngyn/blob/master/Hi.gif" width="30px">
 
 ```javascript
 const about = {
-    name: 'christopher nguyen',
+    name: 'Vansh Reddy',
     experience: {
-        education: 'computer science student @ york university',
-        current: 'software engineer intern @ shopify',
-        prev: 'software engineer intern @ amazon (aws)'
+        education: 'Computer Engineering student @ RPI',
+        current: 'Rensselaer Center for Open source',
     },
     links: {
-        website: 'https://chris-nguyen.me',
-        github: 'https://github.com/chrisngyn',
-        linkedin: 'https://www.linkedin.com/in/chrisngyn',
+        website: 'https://vanshreddy.tech',
+        github: 'https://github.com/vanshreddy',
+        linkedin: 'https://www.linkedin.com/in/vanshreddy',
     },
-    quote: 'this thing we call failure is not the falling down, but the staying down. - leslie knope'
+    quote: “Would I rather be feared or loved? Easy. Both. I want people to be afraid of how much they love me.” - Michael Scott
 }
 ```
 
 ----------------------------------------------------------------------------------------------------
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chrisngyn&show_icons=true&hide_rank=true&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vanshreddy&show_icons=true&hide_rank=true&hide_border=true)
