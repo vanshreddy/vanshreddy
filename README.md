@@ -18,4 +18,3 @@ const about = {
 
 ----------------------------------------------------------------------------------------------------
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vanshreddy&show_icons=true&hide_rank=true&hide_border=true)
