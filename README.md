@@ -1,8 +1,8 @@
 ### Hi there! I'm Vansh (he / him). <img src="https://github.com/chrisngyn/chrisngyn/blob/master/Hi.gif" width="30px">
 
-[![Linkedin Badge](https://img.shields.io/badge/-jlim-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vanshreddy/)](https://www.linkedin.com/in/vanshreddy/)
-[![Website Badge](https://img.shields.io/badge/-jessicalim.me-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://vanshreddy.github.io)](https://vanshreddy.github.io)
-[![Gmail Badge](https://img.shields.io/badge/-jessicalim813-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:vanshcheguri@gmail.com)](mailto:vanshcheguri@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-vanshreddy-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vanshreddy/)](https://www.linkedin.com/in/vanshreddy/)
+[![Website Badge](https://img.shields.io/badge/-vanshreddy-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://vanshreddy.github.io)](https://vanshreddy.github.io)
+[![Gmail Badge](https://img.shields.io/badge/-vanshreddy-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:vanshcheguri@gmail.com)](mailto:vanshcheguri@gmail.com)
 
 
 ```javascript
